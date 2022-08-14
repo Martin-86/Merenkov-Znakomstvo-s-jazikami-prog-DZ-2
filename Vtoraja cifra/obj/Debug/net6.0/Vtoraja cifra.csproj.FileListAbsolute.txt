@@ -1,0 +1,15 @@
+C:\Users\Asus\Desktop\GB\Языки программирования\Языки прог. ДЗ-2\Vtoraja cifra\obj\Debug\net6.0\Vtoraja cifra.csproj.AssemblyReference.cache
+C:\Users\Asus\Desktop\GB\Языки программирования\Языки прог. ДЗ-2\Vtoraja cifra\obj\Debug\net6.0\Vtoraja cifra.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\Desktop\GB\Языки программирования\Языки прог. ДЗ-2\Vtoraja cifra\obj\Debug\net6.0\Vtoraja cifra.AssemblyInfoInputs.cache
+C:\Users\Asus\Desktop\GB\Языки программирования\Языки прог. ДЗ-2\Vtoraja cifra\obj\Debug\net6.0\Vtoraja cifra.AssemblyInfo.cs
+C:\Users\Asus\Desktop\GB\Языки программирования\Языки прог. ДЗ-2\Vtoraja cifra\obj\Debug\net6.0\Vtoraja cifra.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\GB\Языки программирования\Языки прог. ДЗ-2\Vtoraja cifra\bin\Debug\net6.0\Vtoraja cifra.exe
+C:\Users\Asus\Desktop\GB\Языки программирования\Языки прог. ДЗ-2\Vtoraja cifra\bin\Debug\net6.0\Vtoraja cifra.deps.json
+C:\Users\Asus\Desktop\GB\Языки программирования\Языки прог. ДЗ-2\Vtoraja cifra\bin\Debug\net6.0\Vtoraja cifra.runtimeconfig.json
+C:\Users\Asus\Desktop\GB\Языки программирования\Языки прог. ДЗ-2\Vtoraja cifra\bin\Debug\net6.0\Vtoraja cifra.dll
+C:\Users\Asus\Desktop\GB\Языки программирования\Языки прог. ДЗ-2\Vtoraja cifra\bin\Debug\net6.0\Vtoraja cifra.pdb
+C:\Users\Asus\Desktop\GB\Языки программирования\Языки прог. ДЗ-2\Vtoraja cifra\obj\Debug\net6.0\Vtoraja cifra.dll
+C:\Users\Asus\Desktop\GB\Языки программирования\Языки прог. ДЗ-2\Vtoraja cifra\obj\Debug\net6.0\refint\Vtoraja cifra.dll
+C:\Users\Asus\Desktop\GB\Языки программирования\Языки прог. ДЗ-2\Vtoraja cifra\obj\Debug\net6.0\Vtoraja cifra.pdb
+C:\Users\Asus\Desktop\GB\Языки программирования\Языки прог. ДЗ-2\Vtoraja cifra\obj\Debug\net6.0\Vtoraja cifra.genruntimeconfig.cache
+C:\Users\Asus\Desktop\GB\Языки программирования\Языки прог. ДЗ-2\Vtoraja cifra\obj\Debug\net6.0\ref\Vtoraja cifra.dll

@@ -1,0 +1,15 @@
+C:\Users\Asus\Desktop\GB\Языки программирования\Языки прог. ДЗ-2\Tretja cifra\bin\Debug\net6.0\Tretja cifra.exe
+C:\Users\Asus\Desktop\GB\Языки программирования\Языки прог. ДЗ-2\Tretja cifra\bin\Debug\net6.0\Tretja cifra.deps.json
+C:\Users\Asus\Desktop\GB\Языки программирования\Языки прог. ДЗ-2\Tretja cifra\bin\Debug\net6.0\Tretja cifra.runtimeconfig.json
+C:\Users\Asus\Desktop\GB\Языки программирования\Языки прог. ДЗ-2\Tretja cifra\bin\Debug\net6.0\Tretja cifra.dll
+C:\Users\Asus\Desktop\GB\Языки программирования\Языки прог. ДЗ-2\Tretja cifra\bin\Debug\net6.0\Tretja cifra.pdb
+C:\Users\Asus\Desktop\GB\Языки программирования\Языки прог. ДЗ-2\Tretja cifra\obj\Debug\net6.0\Tretja cifra.csproj.AssemblyReference.cache
+C:\Users\Asus\Desktop\GB\Языки программирования\Языки прог. ДЗ-2\Tretja cifra\obj\Debug\net6.0\Tretja cifra.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\Desktop\GB\Языки программирования\Языки прог. ДЗ-2\Tretja cifra\obj\Debug\net6.0\Tretja cifra.AssemblyInfoInputs.cache
+C:\Users\Asus\Desktop\GB\Языки программирования\Языки прог. ДЗ-2\Tretja cifra\obj\Debug\net6.0\Tretja cifra.AssemblyInfo.cs
+C:\Users\Asus\Desktop\GB\Языки программирования\Языки прог. ДЗ-2\Tretja cifra\obj\Debug\net6.0\Tretja cifra.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\GB\Языки программирования\Языки прог. ДЗ-2\Tretja cifra\obj\Debug\net6.0\Tretja cifra.dll
+C:\Users\Asus\Desktop\GB\Языки программирования\Языки прог. ДЗ-2\Tretja cifra\obj\Debug\net6.0\refint\Tretja cifra.dll
+C:\Users\Asus\Desktop\GB\Языки программирования\Языки прог. ДЗ-2\Tretja cifra\obj\Debug\net6.0\Tretja cifra.pdb
+C:\Users\Asus\Desktop\GB\Языки программирования\Языки прог. ДЗ-2\Tretja cifra\obj\Debug\net6.0\Tretja cifra.genruntimeconfig.cache
+C:\Users\Asus\Desktop\GB\Языки программирования\Языки прог. ДЗ-2\Tretja cifra\obj\Debug\net6.0\ref\Tretja cifra.dll

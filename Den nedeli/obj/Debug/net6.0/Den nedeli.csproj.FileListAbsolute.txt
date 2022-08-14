@@ -1,0 +1,15 @@
+C:\Users\Asus\Desktop\GB\Языки программирования\Языки прог. ДЗ-2\Den nedeli\obj\Debug\net6.0\Den nedeli.csproj.AssemblyReference.cache
+C:\Users\Asus\Desktop\GB\Языки программирования\Языки прог. ДЗ-2\Den nedeli\obj\Debug\net6.0\Den nedeli.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\Desktop\GB\Языки программирования\Языки прог. ДЗ-2\Den nedeli\obj\Debug\net6.0\Den nedeli.AssemblyInfoInputs.cache
+C:\Users\Asus\Desktop\GB\Языки программирования\Языки прог. ДЗ-2\Den nedeli\obj\Debug\net6.0\Den nedeli.AssemblyInfo.cs
+C:\Users\Asus\Desktop\GB\Языки программирования\Языки прог. ДЗ-2\Den nedeli\obj\Debug\net6.0\Den nedeli.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\GB\Языки программирования\Языки прог. ДЗ-2\Den nedeli\bin\Debug\net6.0\Den nedeli.exe
+C:\Users\Asus\Desktop\GB\Языки программирования\Языки прог. ДЗ-2\Den nedeli\bin\Debug\net6.0\Den nedeli.deps.json
+C:\Users\Asus\Desktop\GB\Языки программирования\Языки прог. ДЗ-2\Den nedeli\bin\Debug\net6.0\Den nedeli.runtimeconfig.json
+C:\Users\Asus\Desktop\GB\Языки программирования\Языки прог. ДЗ-2\Den nedeli\bin\Debug\net6.0\Den nedeli.dll
+C:\Users\Asus\Desktop\GB\Языки программирования\Языки прог. ДЗ-2\Den nedeli\bin\Debug\net6.0\Den nedeli.pdb
+C:\Users\Asus\Desktop\GB\Языки программирования\Языки прог. ДЗ-2\Den nedeli\obj\Debug\net6.0\Den nedeli.dll
+C:\Users\Asus\Desktop\GB\Языки программирования\Языки прог. ДЗ-2\Den nedeli\obj\Debug\net6.0\refint\Den nedeli.dll
+C:\Users\Asus\Desktop\GB\Языки программирования\Языки прог. ДЗ-2\Den nedeli\obj\Debug\net6.0\Den nedeli.pdb
+C:\Users\Asus\Desktop\GB\Языки программирования\Языки прог. ДЗ-2\Den nedeli\obj\Debug\net6.0\Den nedeli.genruntimeconfig.cache
+C:\Users\Asus\Desktop\GB\Языки программирования\Языки прог. ДЗ-2\Den nedeli\obj\Debug\net6.0\ref\Den nedeli.dll
